@@ -1,5 +1,6 @@
 ---
-layout: wide
+layout: single
+class: wide
 title: Seguridad informática para simples mortales
 tags:
   - seguridad
