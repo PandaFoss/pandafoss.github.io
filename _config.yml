@@ -129,9 +129,9 @@ social:
     - "https://instagram.com/pandafossblog"
     - "https://www.linkedin.com/in/maxferrer"
 
-category_archive:
-  type: liquid
-  path: /categories/
+#category_archive:
+  #type: liquid
+  #path: /categories/
 tag_archive:
   type: liquid
   path: /tags/

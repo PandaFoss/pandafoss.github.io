@@ -1,8 +1,6 @@
 ---
 layout: wide
 title: Seguridad informática para simples mortales
-cover-img: /assets/posts/hacker.jpg
-share-img: /assets/posts/hacker.jpg
 tags:
   - seguridad
   - guia
