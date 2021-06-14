@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Panda Foss News
+title: El Blog del Panda
 subtitle: Informática para simples mortales
 email: maxi.fg13@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -26,6 +26,8 @@ minimal_mistakes_skin: dark
 search: true
 url: "https://pandafoss.github.io"
 repository: "PandaFoss/pandafoss.github.io"
+date_format: "%d-%m-%Y"
+locale: "es"
 
 # Build settings
 markdown: kramdown
@@ -34,7 +36,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Argentina/Buenos_Aires # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -63,7 +65,8 @@ plugins:
 author:
   name   : "Max Ferrer"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "SysAdmin Linux Jr. en formación, developer autodidacta y estudiante de Ingeniería en Computación."
+  location: "Argentina"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -103,7 +106,6 @@ defaults:
       share: true
       related: true
       show_date: true
-      date_format: "%d-%m-%Y"
   # _pages
   - scope:
       path: "_pages"
@@ -118,3 +120,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-dark"
+    issue_term: "pathname"
