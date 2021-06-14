@@ -37,6 +37,10 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Argentina/Buenos_Aires # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# SEO Related
+google_site_verification : "u8GuroXhOBWDbUJzAz5EcWBiAouCNdCnW681F8485CA"
+bing_site_verification   : "D9F22DDA5D10FD97EE78DB7DA86B0AAE"
+yandex_site_verification : "2d144b491dd178ef"
 
 include:
   - _pages
