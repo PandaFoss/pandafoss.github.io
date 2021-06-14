@@ -1,10 +1,12 @@
 ---
-published: true
-layout: post
-title: Seguridad informática para simples mortales (Spanish)
+layout: wide
+title: Seguridad informática para simples mortales
 cover-img: /assets/posts/hacker.jpg
 share-img: /assets/posts/hacker.jpg
-tags: [seguridad, guia, privacidad, security]
+tags:
+  - seguridad
+  - guia
+  - privacidad
 ---
 
 *Edición del 7 nov 2020: En vista de que mucha gente, por uno u otro motivo, sigue siendo víctima de "hackeos" (fundamentalmente en redes sociales), he creado el siguiente listado con recursos útiles para las víctimas (por lo menos para saber a quién recurrir en primer término, antes de una  consulta "formal" o "legal" si es el caso). Está abierta a colaboración: [Link](https://gist.github.com/PandaFoss/76ddc9c9efcc764cf2ca6d10bc06bbc3)*
