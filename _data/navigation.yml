@@ -1,8 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categorías"
-    url: /categories/
+  #- title: "Categorías"
+    #url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "Sobre mi"
