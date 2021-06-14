@@ -28,6 +28,7 @@ repository: "PandaFoss/pandafoss.github.io"
 date_format: "%d-%m-%Y"
 locale: "es"
 logo: "/assets/images/masthead.png"
+og_image: "/assets/images/logo.png"
 masthead_title: " "
 # Build settings
 markdown: kramdown
@@ -48,14 +49,15 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+ exclude:
+   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+   - README.md
 
 # Plugins (previously gems:)
 plugins:
@@ -117,6 +119,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+social:
+  type: "Person" # Person or Organization (defaults to Person)
+  name: "Panda Foss"  # If the user or organization name differs from the site's name
+  links:
+    - "https://github.com/PandaFoss"
+    - "https://twitter.com/PandaFoss"
+    - "https://instagram.com/pandafossblog"
+    - "https://www.linkedin.com/in/maxferrer"
 
 category_archive:
   type: liquid
