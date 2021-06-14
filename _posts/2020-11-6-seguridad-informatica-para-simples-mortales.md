@@ -2,6 +2,8 @@
 layout: single
 class: wide
 title: Seguridad informática para simples mortales
+header:
+  teaser: ../assets/posts/hacker.jpg
 tags:
   - seguridad
   - guia
