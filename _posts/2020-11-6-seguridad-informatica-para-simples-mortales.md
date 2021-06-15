@@ -2,6 +2,7 @@
 layout: single
 class: wide
 title: Seguridad informática para simples mortales
+last_modified_at: 2020-11-07
 header:
   teaser: ../assets/posts/hacker.jpg
 tags:
