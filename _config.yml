@@ -72,9 +72,7 @@ plugins:
 author:
   name   : "Max Ferrer"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : |
-    a.k.a. Panda Foss
-    Cloud Engineer, developer autodidacta y estudiante de Ingeniería en Computación.
+  bio    : "Cloud Engineer, developer autodidacta y estudiante de Ingeniería en Computación."
   location: "Argentina"
   links:
     - label: "Email"
