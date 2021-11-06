@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "El Blog del Panda"
+title: "Panda Foss ~ Blog"
 email: maxi.fg13@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog enfocado en temas relacionados con el software libre
@@ -27,7 +27,7 @@ url: "https://pandafoss.github.io"
 repository: "PandaFoss/pandafoss.github.io"
 date_format: "%d-%m-%Y"
 locale: "es"
-logo: "/assets/images/masthead_test.png"
+logo: "/assets/images/masthead.png"
 og_image: "/assets/images/logo.png"
 masthead_title: " "
 # Build settings
