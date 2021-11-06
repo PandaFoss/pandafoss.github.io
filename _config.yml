@@ -27,7 +27,7 @@ url: "https://pandafoss.github.io"
 repository: "PandaFoss/pandafoss.github.io"
 date_format: "%d-%m-%Y"
 locale: "es"
-logo: "/assets/images/masthead.png"
+logo: "/assets/images/masthead_test.png"
 og_image: "/assets/images/logo.png"
 masthead_title: " "
 # Build settings
