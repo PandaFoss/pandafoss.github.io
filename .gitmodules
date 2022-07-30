@@ -1,0 +1,3 @@
+[submodule "Awesome-Arch"]
+	path = Awesome-Arch
+	url = git@github.com:PandaFoss/Awesome-Arch.git
