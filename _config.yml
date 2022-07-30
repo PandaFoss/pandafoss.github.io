@@ -45,7 +45,6 @@ yandex_site_verification : "2d144b491dd178ef"
 
 include:
   - _pages
-  - Awesome-Arch
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
